@@ -1,0 +1,7 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>GitHub</ShortName>
+  <Description>GitHub検索</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="16" height="16">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAgElEQVR42mJU0VHDMAy5RwzEzCjI1N5DAl6P8AI9A3AA2G4BQPB2QBaGgHeJuBH4oBSGEg5+ULISJSS0zvFFZnqoHtnc0CEK2BZQ4yDZzjDh3q4LwF9YDT4M1BVGCLaGDQNu5vAtGhhzRygjQWiQyFPHh1mYWxIN5CiCFpMPCJ7FKA6zElOZn+G6M4DI9jQlU1zWAAAAAElFTkSuQmCC</Image>
+  <Url type="text/html" template="https://www.google.com/search?q=site:github.com+{searchTerms}"/>
+</OpenSearchDescription>
